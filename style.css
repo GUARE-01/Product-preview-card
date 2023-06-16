@@ -120,7 +120,7 @@ button:hover {
   color: hsl(228, 45%, 44%);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 400px) {
   .main-container {
     display: block;
     padding: 1rem;
